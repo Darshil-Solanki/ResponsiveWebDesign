@@ -1,0 +1,40 @@
+.container{
+  background-color:#dfdfe2;
+  margin-top:50px;
+  border-radius:5px;
+}
+header{
+  text-align:center;
+  font-size:18px;
+}
+figure img{
+  object-fit:cover;
+  display:block;
+  max-width:100%;
+  height:auto;
+  min-height:250px;
+  margin:auto;
+}
+figure figcaption{
+  text-align:center;
+}
+figure{
+  background-color:#fff;
+  padding:10px 50px;
+}
+section{
+  text-align:left;
+  width:50%;
+  margin:auto;
+}
+#headline{
+  text-align:center;
+}
+section li{
+  margin: 35px auto;
+}
+section blockquote{
+  margin-top:45px;
+}
+
+
